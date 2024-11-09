@@ -1,7 +1,7 @@
 
 # NtDelayExecution Manipulator
 
-This project uses `NtDelayExecution` function to create a custom sleep mechanism, along with manipulating breakpoints and handling exceptions. usage? maybe a control flow injection
+This project uses `NtDelayExecution` function to create a custom sleep mechanism, along with manipulating breakpoints and handling exceptions. usage? maybe a control flow hijacking
 
 ![exec](https://cdn.discordapp.com/attachments/1253196583403786302/1304731873074745346/image.png?ex=673075bf&is=672f243f&hm=d8a499b0897166971759128edb209cbdcb313611439690fdc5eda3b97ec03fe2&)
 
